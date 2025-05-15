@@ -113,5 +113,5 @@ Each one will get a dedicated GitHub file and real-world examples.
 
 ---
 
-📅 Logged as: **Day 1 – May 14, 2025**  
+📅 Logged as: **Day 1 – May 15, 2025**  
 📂 Repo: `business-analyst-journey`  
