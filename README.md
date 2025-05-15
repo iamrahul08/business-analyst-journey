@@ -1,2 +1,2 @@
 # business-analyst-journey
-My daily learning journey to become a Business Analyst
+My daily progress journal on becoming a Business Analyst – Powered by BABOK, IBM Simplilearn, and real-world prep
