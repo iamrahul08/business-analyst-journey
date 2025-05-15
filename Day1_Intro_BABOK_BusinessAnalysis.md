@@ -1,6 +1,6 @@
-# 📘 Day 1 – Introduction to Business Analysis & BABOK v3
+# 📘 Day 1 – Introduction to Business Analysis, BABOK v3 & BA Planning and Monitoring
 
-Welcome to my Business Analyst learning journal. This document expands on the foundational concepts of Business Analysis, drawing insights from the BABOK v3 framework and Simplilearn's IBM Business Analyst course.
+Welcome to my Business Analyst learning journal. This document expands on foundational concepts of Business Analysis, drawing insights from BABOK v3 and Simplilearn's IBM Business Analyst course.
 
 ---
 
@@ -36,6 +36,17 @@ These are the pillars of the BA lifecycle:
 4. **Strategy Analysis** – How to understand current state and define future state
 5. **Requirements Analysis & Design Definition** – How to structure and prioritize requirements
 6. **Solution Evaluation** – How to evaluate if the implemented solution meets the business need
+
+---
+
+## 🔍 Business Analysis Planning and Monitoring (Expanded)
+
+This knowledge area focuses on:
+
+- **Plan Stakeholder Engagement:** Identify and analyze stakeholders, plan communication and collaboration.
+- **Plan Business Analysis Governance:** Define decision-making processes, escalation paths, and compliance requirements.
+- **Plan Business Analysis Information Management:** Organize, store, and manage BA deliverables and requirements documentation.
+- **Identify Business Analysis Performance Improvements:** Measure effectiveness of BA activities and suggest improvements.
 
 ---
 
@@ -95,7 +106,7 @@ Expect interviewers to ask:
 - “What is BABOK and how have you used it?”
 - “Can you walk me through the key competencies a BA should have?”
 - “Which BABOK techniques have you applied in your projects?”
-- “How do you handle stakeholder communication or elicitation?”
+- “How do you plan stakeholder engagement and governance?”
 
 💡 Having this breakdown on your GitHub will let you **revise easily before interviews**, and prove you have a structured learning path.
 
@@ -114,4 +125,4 @@ Each one will get a dedicated GitHub file and real-world examples.
 ---
 
 📅 Logged as: **Day 1 – May 15, 2025**  
-📂 Repo: `business-analyst-journey`  
+📂 Repo: `business-analyst-journey`
